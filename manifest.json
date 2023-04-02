@@ -1,0 +1,12 @@
+{
+    "name" : "Blog GPT Extention",
+    "version" : "1.0.0",
+    "description" : "request for GPT chat for blog ",
+    " manifest_version" : "1",
+    "author" : "Pavel Rudzko",
+    "action" : {
+        "default_popup" : "index.html",
+        "default_title": "Ask GPT for blog "
+    }
+     
+}
